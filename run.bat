@@ -1,4 +1,3 @@
-set FLASK_APP=flaskr
-set FLASK_ENV=development
+.\init.bat
 
 flask run --host=0.0.0.0
