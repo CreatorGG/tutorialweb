@@ -1,0 +1,1 @@
+cmd /k "cd /d E:\Projects\eclipse-workspace\tutorialweb&&D:\venv\tutorial_py27\Scripts\activate&&.\init.bat&&.\run.bat"
