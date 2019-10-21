@@ -1,3 +1,1 @@
-.\init.bat
-
-flask run --host=0.0.0.0
+.\init.bat && flask run --host=0.0.0.0
